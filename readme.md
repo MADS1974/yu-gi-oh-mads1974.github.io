@@ -48,7 +48,7 @@ Divirta-se jogando o **Jogo de Cartas do Yu-Gi-Oh! .**** Lembre-se de deixar u
 
 ## O que eu implementei?
 
-Seguindo os conceitos das aulas na DIO, recriei o projeto, adicionei funcionalidades extras, mais cartas ao jogo, as cartas são gifs dos próprios personagens, ao clicar na imagem do 👁️ você acessa uma página com informações sobre todas as cartas e monta a sua estratégia para vencer o duelo, adicionei a funcionalidade onde o jogador que vencer 10 duelos ganha o jogo, adicionei duas lógicas onde a primeira todas as cartas estão disponíveis para jogar, e na outra lógica (ativada no código) as cartas mais poderosas só ficam acessíveis (para você) quando algum jogador atinge 5 win no placar geral, aumentando a dificuldade do jogo, tudo isso para dar aquela diversão enquanto você joga, acessa e confere.
+Seguindo os conceitos das aulas na DIO, recriei o projeto, adicionei funcionalidades extras, informações de atributos das cartas, mais cartas ao jogo, as cartas são gifs dos próprios personagens, ao clicar na imagem do 👁️ você acessa uma página com informações sobre todas as cartas e monta a sua estratégia para vencer o duelo, adicionei a funcionalidade onde o jogador que vencer 10 duelos ganha o jogo, adicionei duas lógicas onde a primeira todas as cartas estão disponíveis para jogar, e na outra lógica (ativada no código) as cartas mais poderosas só ficam acessíveis (para você) quando algum jogador atinge 5 win no placar geral, aumentando a dificuldade do jogo, tudo isso para dar aquela diversão enquanto você joga, acessa e confere.
 
 <!-- ACKNOWLEDGMENTS -->
 
