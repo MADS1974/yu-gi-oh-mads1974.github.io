@@ -1,0 +1,51 @@
+body {
+    cursor: url("../assets/cursor/yugicursor.png"), default;
+}
+
+:is(button, a),
+:is(img, button, a):hover {
+    cursor: url("../assets/cursor/yamiyugicursorGLOW.png"), auto;
+}
+
+.description-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333; 
+    padding: 10px;
+    border: 2px solid #333; 
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.title:hover {
+    background-color: #db9e57; 
+}
+
+
+.description-container img {
+    border: 2px solid #000;
+    border-radius: 8px;
+    margin: 5px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    width: 200px; 
+    height: 336px; 
+}
+
+.description-container img:hover {
+    transform: scale(1.2);
+}
+
